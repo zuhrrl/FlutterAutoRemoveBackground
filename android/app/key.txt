@@ -1,0 +1,4 @@
+storePassword=q8LYVx5X5EqSYVKs
+keyPassword=q8LYVx5X5EqSYVKs
+keyAlias=key0
+storeFile=keystore.jks

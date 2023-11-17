@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "414305372777",
+    "project_id": "hapusbackground-35e99",
+    "storage_bucket": "hapusbackground-35e99.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414305372777:android:838d669bbe50418993b0f8",
+        "android_client_info": {
+          "package_name": "com.ranispace.hapusbackground"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414305372777-pknbjog8ok1ir5cpnhilg1g0vfvo8nof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLMZI-0J28ZMCRAaqaS5RFUEIKCkvAqRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414305372777-pknbjog8ok1ir5cpnhilg1g0vfvo8nof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
